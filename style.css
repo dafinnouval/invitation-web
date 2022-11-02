@@ -1,0 +1,141 @@
+* {
+  font-family: "Times New Roman", Times, serif !important;
+}
+.bg-first {
+  background-image: url(./ASSET/BG\ Page\ 1.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 146vh;
+}
+.bg-second {
+  background-image: url(./ASSET/BG\ Page\ 2.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 146vh;
+}
+
+.img-photo {
+  margin-top: 45px;
+  border: 1px solid rgb(71, 149, 71);
+  padding: 3px;
+  border-radius: 45%;
+  height: 60vh;
+}
+
+.text-name {
+  font-size: 60px;
+  color: rgb(43, 88, 43);
+}
+.text-name-sec {
+  font-size: 50px;
+  color: rgb(43, 88, 43);
+}
+
+.text-date {
+  margin-top: 1rem;
+  font-size: 25px;
+  border: 2px solid orange;
+  color: rgb(43, 88, 43);
+  padding: 5px 20px;
+}
+
+.text-gold {
+  font-size: 20px;
+  color: gold;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.text-desc {
+  padding: 5px;
+  font-size: 12px;
+  color: rgb(43, 88, 43);
+}
+.text-desc-span {
+  font-size: 12px;
+  color: rgb(43, 88, 43);
+  text-align: justify;
+}
+
+.flower4 {
+  position: absolute;
+  top: -11%;
+  left: 68%;
+  right: -27%;
+}
+.flower3 {
+  position: absolute;
+  top: 92%;
+  left: 77%;
+  right: -38%;
+}
+.flower1 {
+  position: absolute;
+  top: 119%;
+  right: 26%;
+  left: -35%;
+}
+.flower2 {
+  position: absolute;
+  top: 267%;
+  right: 61%;
+  left: -9%;
+}
+
+.t1 {
+  transform: translate(15px, 65px) rotate(-30deg);
+}
+
+.t2 {
+  transform: translate(10px, 54px) rotate(-25deg);
+}
+
+.t3 {
+  transform: translate(7px, 45px) rotate(-20deg);
+}
+
+.t4 {
+  transform: translate(3px, 23px) rotate(-15deg);
+}
+
+.t5 {
+  transform: translate(2px, 38px) rotate(-10deg);
+}
+
+.t6 {
+  transform: translate(1px, 32px) rotate(-5deg);
+}
+
+.t7 {
+  transform: translate(0px, 28px) rotate(0deg);
+}
+
+.t8 {
+  transform: translate(-1px, 28px) rotate(5deg);
+}
+
+.t9 {
+  transform: translate(-2px, 30px) rotate(10deg);
+}
+
+.t10 {
+  transform: translate(-3px, 35px) rotate(15deg);
+}
+
+.t11 {
+  transform: translate(-6px, 42px) rotate(20deg);
+}
+
+.t12 {
+  transform: translate(-14px, 60px) rotate(25deg);
+}
+
+.t13 {
+  transform: translate(-13px, 57px) rotate(30deg);
+}
+.t14 {
+  transform: translate(-20px, 70px) rotate(30deg);
+}
+span {
+  display: inline-block;
+}
